@@ -1,6 +1,6 @@
 # Faston机场官网地址
 
-最新地址：[fs-site.com](https://console.fs-site.com/#/register?code=DiPJBpXS)
+最新地址：[fst-in.com](https://console.fst-in.com/#/register?code=DiPJBpXS)
 
 ## Faston机场简介
 
