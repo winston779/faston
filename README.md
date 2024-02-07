@@ -1,6 +1,6 @@
 # Faston机场官网地址
 
-最新地址：[fst-link.com](https://dash.fst-link.com/#/register?code=DiPJBpXS)
+最新地址：[link-fst.com](https://portal.link-fst.com/#/register?code=DiPJBpXS)
 
 ## Faston机场简介
 
